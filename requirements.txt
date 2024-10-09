@@ -1,3 +1,5 @@
-gradio
-opencv-python
-pytesseract
+Pillow==9.1.0
+pytesseract==0.3.9
+gradio==3.23.0  # Ensure this is 3.x version
+httpx==0.23.0
+httpcore==0.15.0
